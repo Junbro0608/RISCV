@@ -1,4 +1,4 @@
-# 📄 [Project] RISC-V Processor & MCU Design (RV32I)
+# 📄 [Project] RISC-V Design (RV32I)
 > **"명령어 집합 구조(ISA)의 완벽한 이해부터 APB Bus 기반 MCU 설계 및 Basys3 FPGA 실물 검증까지"**
 
 ## 🎯 Project Overview
