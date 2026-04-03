@@ -14,7 +14,7 @@
 | **Architecture** | RV32I Single-cycle CPU | Multi-cycle CPU 기반 MCU |
 | **Bus Protocol** | N/A (Internal Bus) | **APB (Advanced Peripheral Bus)** |
 | **I/O 방식** | ROM Code 기반 고정 데이터 | **MMIO (Memory Mapped I/O)** |
-| **Target HW** | Simulation (Vivado/VCS) | **Basys3 FPGA Board** |
+| **Target HW** | Simulation | **Simulation & FPGA** |
 | **주요 성과** | 모든 명령어 전수 검증 & 누적 Sum 구동 | **Up-Down Game** 실물 시스템 구현 |
 
 ---
