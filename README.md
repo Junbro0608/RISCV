@@ -24,7 +24,6 @@
 
 * **Instruction Coverage:** R/I/S/B/U/J 모든 타입의 단일 명령어를 시뮬레이션을 통해 전수 검증 완료.
 * **Program Execution:** ROM에 **누적 합(1 to N Summation)** 프로그램을 적재하여 데이터패스의 정합성 및 제어 신호의 정확성 증명.
-* **Key Insight:** 단일 사이클 내의 Critical Path 분석을 통해 하드웨어 타이밍과 자원 할당의 기초를 다졌습니다.
 
 ---
 
